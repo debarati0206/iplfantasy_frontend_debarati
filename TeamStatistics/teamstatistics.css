@@ -1,0 +1,7 @@
+.teamParent{
+    background:linear-gradient(to bottom, rgba(205, 208, 222, 0.52), rgba(38, 171, 84, 0.466)), url("https://images.pexels.com/photos/61143/pexels-photo-61143.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-repeat: no-repeat;
+    object-fit: cover;
+    background-attachment: fixed;
+    background-size: cover;
+}
